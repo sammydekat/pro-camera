@@ -1,3 +1,3 @@
 # pro-camera
 Camera settings Pro
-Extension for Appnventor
+Extension for Appinventor
